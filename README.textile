@@ -1,0 +1,24 @@
+h1. The John Metta Brand
+
+Yeah, it's a bit vain, but I decided to create a brand for myself that was intentional, rather than accidental. You can read about this in my blog post "John Metta: An Intentional Brand":http://positivelyglorious.com/software-media/john-metta-an-intentional-brand. This is just the repository for me to store the icons and other info for my brand.
+
+h1. Brand Details
+
+h2. Colors
+
+|Color|Pantone|CMYK|Hex|RGB|
+| !http://github.com/johnmetta/brand/raw/master/colors/color-blue.png! |7468|97, 44, 26, 3|#21759b|33, 117, 155|
+| !http://github.com/johnmetta/brand/raw/master/colors/color-orange.png! |1665|6, 86, 100, 1|#d54e21|213, 78, 33|
+| !http://github.com/johnmetta/brand/raw/master/colors/color-grey.png! |Black 7|65, 60, 60, 45|#464646|70, 70, 70|
+
+h2. Font
+
+Optima Heavy, manually skewed horizontally by -17.0 degrees. In Inkscape, this is done at ultra high resolution by creating a document at 2211px X 400px, then creating a standard Optima Heavy textmark of JohnMetta (one word) at 144pt, then increasing the size by 280% (aspect maintained), then skewing the image by -17.0 horizontally.
+
+h2. Logo Artist
+
+Credit where credit is due, this logo was developed by a great graphic artist from Portland, Oregon named "Diego Diaz":http://diegodiaz.com. Check him out if you want some well thought out branding work.
+
+h1. Copyright
+
+All images in this repository are Copyright &copy; 2010 John William Pennington Metta. All Rights Reserved.

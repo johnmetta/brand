@@ -13,7 +13,7 @@ h2. Colors
 
 h2. Font
 
-Optima Heavy, manually skewed horizontally by -17.0 degrees. In Inkscape, this is done at ultra high resolution by creating a document at 2211px X 400px, then creating a standard Optima Heavy textmark of JohnMetta (one word) at 144pt, then increasing the size by 280% (aspect maintained), then skewing the image by -17.0 horizontally.
+Optima Heavy, manually skewed horizontally by -18.0 degrees. In Inkscape, this is done at ultra high resolution by creating a document at 2211px X 400px, then creating a standard Optima Heavy textmark of JohnMetta (one word) at 144pt, then increasing the size by 280% (aspect maintained), then skewing the image by -18.0 horizontally.
 
 h2. Logo Artist
 

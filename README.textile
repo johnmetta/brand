@@ -1,6 +1,6 @@
 h1. The John Metta Brand
 
-|<img src="https://github.com/johnmetta/brand/raw/master/full/logo.png" height="80px" alt="Metta Logo" />|Yeah, it's a bit vain, but I decided to create a brand for myself that was intentional, rather than accidental. You can read about this in my blog post "John Metta: An Intentional Brand":http://positivelyglorious.com/software-media/john-metta-an-intentional-brand. This is just the repository for me to store the icons and other info for my brand.|<img src="https://github.com/johnmetta/brand/raw/master/icon/logo.png" height="80px" alt="Metta Logo" />|
+|<img src="https://github.com/johnmetta/brand/raw/master/full/logo.png" min-height="80px" alt="Metta Logo" />|Yeah, it's a bit vain, but I decided to create a brand for myself that was intentional, rather than accidental. You can read about this in my blog post "John Metta: An Intentional Brand":http://positivelyglorious.com/software-media/john-metta-an-intentional-brand. This is just the repository for me to store the icons and other info for my brand.|<img src="https://github.com/johnmetta/brand/raw/master/icon/logo.png" min-height="80px" alt="Metta Logo" />|
 
 h1. Brand Details
 
